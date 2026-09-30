@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas
+plotly
+python-dotenv
+langchain-groq
+langchain-core
+langgraph

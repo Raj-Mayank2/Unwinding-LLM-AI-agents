@@ -1,3 +1,4 @@
+
 # 🏋️ AI Health & Fitness Planner Agent
 
 A multi-agent AI application that generates general nutrition and fitness plans based on user-provided information.
@@ -44,3 +45,4 @@ The application uses two specialized AI agents — a **Diet Agent** and a **Fitn
              ┌─────────────┴─────────────┐
              ▼                           ▼
        Nutrition Plan              Fitness Plan
+>>>>>>> d2d10d2 (Add Ask My Dataset agent)
